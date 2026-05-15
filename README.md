@@ -1,2 +1,14 @@
-# Codeforces-Solutions
-🎯 My personal archive of Codeforces solutions, organized by rating and topic. Tracking my competitive programming journey and algorithm mastering! 🚀
+# 🏆 Codeforces Solutions
+
+مرحباً بك! هذا المستودع يحتوي على حلولي لمسائل موقع **Codeforces** باستخدام لغة C++.
+
+## 📊 إحصائيات سريعة
+* **الحساب على كود فورسس:** [اسم حسابك هنا](رابط بروفايلك)
+* **اللغة المستخدمة:** C++
+
+## 📝 قائمة المسائل المحلولة
+
+| رقم المسألة | اسم المسألة | الصعوبة | الحل |
+| :---: | :--- | :---: | :---: |
+| 4A | Watermelon | 800 | [الحل](./Rating-800/4A-Watermelon.cpp) |
+| 71A | Way Too Long Words | 800 | [الحل](./Rating-800/71A-WayTooLongWords.cpp) |
