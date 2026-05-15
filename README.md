@@ -10,5 +10,5 @@
 
 | رقم المسألة | اسم المسألة | الصعوبة | الحل |
 | :---: | :--- | :---: | :---: |
-| 4A | Watermelon | 800 | [الحل](./Rating-800/4A-Watermelon.cpp) |
+| 1073A | 1073A | YES or YES? | 800 | [الحل](Rating-800/1073A | YES or YES?) |
 | 71A | Way Too Long Words | 800 | [الحل](./Rating-800/71A-WayTooLongWords.cpp) |
