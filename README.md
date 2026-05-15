@@ -10,5 +10,5 @@
 
 | رقم المسألة | اسم المسألة | الصعوبة | الحل |
 | :---: | :--- | :---: | :---: |
-| 1073A | YES or YES? | 800 | [الحل](./Rating-800/1073A | YES or YES?) |
+| 1073A | YES or YES? | 800 | [الحل](./Rating-800/YESorYES) |
 | 71A | Way Too Long Words | 800 | [الحل](./Rating-800/71A-WayTooLongWords.cpp) |
