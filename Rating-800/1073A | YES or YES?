@@ -1,0 +1,36 @@
+using System.Collections.Generic;
+using System.Text;
+using System;
+ 
+class Program
+{
+    static void Main()
+    {
+        // 1. Read the number of testcases
+        int t = int.Parse(Console.ReadLine());
+        
+        // 2. Use a List for a dynamic array of strings
+        List<string> testCases = new List<string>();
+        
+        for (int i = 0; i < t; i++)
+        {
+            testCases.Add(Console.ReadLine());
+        }
+        //3.Will uppercase the string and compare it with "YES" if it is equal then print "YES" otherwise print "NO"
+        for (int i = 0; i < t; i++)
+        {
+            string Lineword = testCases[i];
+            string uppercaseLineword = Lineword.ToUpper();
+            if (uppercaseLineword == "YES")
+            {
+                Console.WriteLine("YES");
+            }
+            else
+            {
+                Console.WriteLine("NO");
+        
+            }
+        }
+
+     }
+}     
